@@ -3,13 +3,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name    = 'fluent-plugin-claymore'
-  spec.version = '10.0.0'
+  spec.version = '1.0.0'
   spec.authors = ['Timothy Stott']
   spec.email   = ['stott.timothy@gmail.com']
 
-  spec.summary       = 'fluentd parser plugin for Claymore Dual Miner logs'
-  spec.description   = ''
-  spec.homepage      = ''
+  spec.summary       = 'Fluentd parser plugin for Claymore Dual Miner logs'
+  spec.description   = 'Extract time series metrics from Claymore Dual Miner logs'
+  spec.homepage      = 'https://github.com/timstott/fluent-plugin-claymore'
   spec.license       = 'Apache-2.0'
 
   test_files, files  = `git ls-files -z`.split("\x0").partition do |f|

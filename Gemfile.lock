@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fluent-plugin-claymore (10.0.0)
+    fluent-plugin-claymore (1.0.0)
       fluentd (>= 0.14.10, < 2)
 
 GEM

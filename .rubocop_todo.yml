@@ -10,7 +10,7 @@
 # Configuration parameters: AllowHeredoc, AllowURI, URISchemes, IgnoreCopDirectives, IgnoredPatterns.
 # URISchemes: http, https
 Metrics/LineLength:
-  Max: 111
+  Max: 200
 
 # Offense count: 2
 Style/Documentation:
