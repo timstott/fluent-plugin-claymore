@@ -1,4 +1,4 @@
-# fluent-plugin-claymore
+# fluent-plugin-claymore [![CircleCI](https://circleci.com/gh/timstott/fluent-plugin-claymore/tree/master.svg?style=svg)](https://circleci.com/gh/timstott/fluent-plugin-claymore/tree/master)
 
 [Fluentd](https://fluentd.org/) parser plugin to extract metrics from Claymore
 Dual Miner logs
