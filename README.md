@@ -1,4 +1,8 @@
-# fluent-plugin-claymore [![CircleCI](https://circleci.com/gh/timstott/fluent-plugin-claymore/tree/master.svg?style=svg)](https://circleci.com/gh/timstott/fluent-plugin-claymore/tree/master)
+# fluent-plugin-claymore
+
+[![Gem](https://img.shields.io/gem/v/fluent-plugin-claymore.svg?style=flat-square)](https://rubygems.org/gems/fluent-plugin-claymore)
+[![CircleCI](https://img.shields.io/circleci/project/github/timstott/fluent-plugin-claymore.svg?style=flat-square)](https://circleci.com/gh/timstott/fluent-plugin-claymore/tree/master)
+[![Gemnasium](https://img.shields.io/gemnasium/timstott/fluent-plugin-claymore.svg?style=flat-square)](https://gemnasium.com/github.com/timstott/fluent-plugin-claymore)
 
 [Fluentd](https://fluentd.org/) parser plugin to extract metrics from Claymore
 Dual Miner logs
